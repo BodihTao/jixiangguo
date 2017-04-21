@@ -1,1 +1,8 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+# 缘起
+
+吉祥果师兄是网络弘法师兄中难能可贵的一位大善知识，他的文章结合了近20年的实修经验，通俗易懂、观点犀利、逻辑严密、引经据典。果师兄的文章分享一些适合大众修持简单有效的法门，增强了我对三宝的信心；也批判了一些常见的邪知邪见，令我有智慧少走弯路和避过陷阱。末法时代鱼龙混杂、邪知邪见众多，学佛者很容易被误导；正因如此，果师兄文章的价值是难以估量的。 我发愿整理和守护好果师兄文章宝藏以利众生，愿三宝加持令果师兄的文章长久流传，使迷茫的佛子，具正知正见，速证菩提。
+
+# 
+
+
+
