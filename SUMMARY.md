@@ -1,11 +1,11 @@
 # Summary
 
 * [缘起](README.md)
+* [孝道](xiao-dao.md)
 * [治病](/first-question.md)
 * [延寿](yan-shou.md)
-* 孝道
 * 求财
-* 婚姻
+* [婚姻](hun-yin.md)
 * 求子
 * 教育
 * 梦境
