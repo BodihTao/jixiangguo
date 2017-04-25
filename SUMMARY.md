@@ -16,8 +16,9 @@
 * 施食
 * 放生
 * 超度
-* [戒定慧](chi-jie.md)
+* [持戒](chi-jie.md)
 * [经咒](jing-zhou.md)
+  * [Section1.1](jingzhou/dasuiqiu.md)
 * 本尊
 * 造像
 * 礼敬
