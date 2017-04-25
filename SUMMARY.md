@@ -17,8 +17,8 @@
 * 放生
 * 超度
 * [持戒](chi-jie.md)
-* [经咒](jing-zhou.md)
-  * [Section1.1](jingzhou/dasuiqiu.md)
+* [经咒]()
+  * [大随求陀罗尼各种功德略说](jingzhou/dasuiqiu.md)
 * 本尊
 * 造像
 * 礼敬
