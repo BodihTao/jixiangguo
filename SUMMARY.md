@@ -1,17 +1,18 @@
 # Summary
 
-* [缘起](README.md)
-* [孝道](xiao-dao.md)
-* [治病](first-question.md)
-* [延寿](yan-shou.md)
+* 缘起
+
+* 孝道
+* 治病
+* 延寿
 * 求财
-* [婚姻](hun-yin.md)
+* [婚姻]()
 * 求子
-* [教育](jiao-yu.md)
+* [教育]()
 * 梦境
-* [传统](chuan-tong.md)
-* [风水](feng-shui.md)
-* [因果](yin-guo.md)
+* [国学]()
+* [风水]()
+* [因果]()
 * 共业
 * 施食
 * 放生
