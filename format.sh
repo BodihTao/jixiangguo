@@ -1,2 +1,3 @@
 #bash  
-sed -i "s/string1/string2/g" *.md
+sed -i "s/,+/,/g"  ` find . -name *.md
+`
